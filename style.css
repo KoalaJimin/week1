@@ -1,0 +1,71 @@
+body,
+h1,
+h2 {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  min-width: fit-content;
+}
+
+.title {
+  font-size: 23px;
+  font-weight: bold;
+  clear: right;
+  display: block;
+}
+
+.major {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 16px;
+  padding-bottom: 5px;
+  padding-top: 40px;
+  color: blueviolet;
+}
+
+.me-img {
+  float: left;
+  margin-right: 10px;
+  width: 180px;
+  height: 100px;
+  border-radius: 20%;
+}
+
+.float-wrap {
+  overflow: hidden;
+}
+
+.about-me-text {
+  font-size: 12px;
+  font-weight: bold;
+  color: #282828;
+  float: left;
+  margin-right: 10px;
+}
+
+.title-text {
+  font-weight: bold;
+}
+
+.year-text {
+  color: #282828;
+}
+
+.mainbox {
+  width: 610px;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  margin: 10px;
+  border: 5px solid #e7daf8;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+  background-color: #efe6ff;
+}
